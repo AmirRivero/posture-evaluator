@@ -22,6 +22,6 @@ Mide inclinación de espalda, posición de cabeza, simetría de hombros/caderas 
 ## **📦 Instalación rápida (Windows)**
 
 ```powershell
-git clone https://github.com/TU_USUARIO/posture-evaluator.git
+git clone https://github.com/AmirRivero/posture-evaluator.git
 cd posture-evaluator
 .\scripts\run_postura.bat
