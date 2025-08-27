@@ -19,11 +19,6 @@ Mide inclinación de espalda, posición de cabeza, simetría de hombros/caderas 
 
 ---
 
-## **📸 Demo**
-*(inserta aquí un GIF/imagen: captura del puntaje en pantalla)*
-
----
-
 ## **📦 Instalación rápida (Windows)**
 
 ```powershell
